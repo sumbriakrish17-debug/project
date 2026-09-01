@@ -1,4 +1,4 @@
-
+//  JAVASCRIPT CODE 
 let saveel = document.getElementById("welcome")
 let countEl = document.getElementById("count")
 console.log(countEl)
